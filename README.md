@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![](https://leetcard.jacoblin.cool/arulthirumalainathan?animation=true)
+![Leetcode Stats](https://leetcard.jacoblin.cool/arulthirumalainathan?theme=forest)
 <!--
 **Aruleeswarangithub/Aruleeswarangithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
