@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://leetcard.jacoblin.cool/T Aruleeswaran?animation=false)
+![](https://leetcard.jacoblin.cool/arulthirumalainathan?animation=true)
 <!--
 **Aruleeswarangithub/Aruleeswarangithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
